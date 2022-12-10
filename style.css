@@ -1,0 +1,19 @@
+body
+{
+   background-image: linear-gradient(rgb(20, 145, 68) 45%, rgb(255, 255, 0) 55%);
+}
+.heading
+{
+    width: 80%;
+    font-size: 21;
+}
+#camera
+{
+    border: 2px dashed goldenrod;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: greenyellow;
+}
